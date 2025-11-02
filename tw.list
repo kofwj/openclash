@@ -1,0 +1,8 @@
+# 域名关键字匹配
+DOMAIN-KEYWORD,kktv
+DOMAIN-KEYWORD,myvideo
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,net.tw
+DOMAIN-SUFFIX,.tw
+DOMAIN-SUFFIX,friday.tw
